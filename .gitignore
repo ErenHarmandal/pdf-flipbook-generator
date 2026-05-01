@@ -1,0 +1,25 @@
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# PyInstaller and generated binaries
+build/
+dist/
+*.spec.bak
+
+# Generated flipbook outputs
+*_flipbook/
+_i18n_test_output/
+
+# Private project notes for local/AI-assisted development
+_internal/
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
