@@ -13,10 +13,6 @@ dist/
 
 # Generated flipbook outputs
 *_flipbook/
-_i18n_test_output/
-
-# Private project notes for local/AI-assisted development
-_internal/
 
 # Local OS/editor noise
 .DS_Store
