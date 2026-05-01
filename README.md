@@ -1,6 +1,6 @@
 # PDF Flipbook Generator
 
-A simple desktop app that converts PDF files into static HTML flipbooks with a page-turning effect.
+A simple program that converts PDF files into static HTML flipbooks with a page-turning effect.
 
 ## Features
 
